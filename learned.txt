@@ -1,0 +1,3 @@
+Name=Nagalakshmi uma pavani
+Course=BSC.computerscience
+ Devops is intersting and ilearned how to create account in github learned .
